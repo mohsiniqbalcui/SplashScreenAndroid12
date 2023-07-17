@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <style name="Theme.App.Starting" parent="Theme.SplashScreen">
-        <item name="windowSplashScreenBackground">#202020</item>
+        <item name="windowSplashScreenBackground">#FF1A808D</item>
 
-        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_baseline_baby_changing_station_24</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/app_icon</item>
 
         <item name="postSplashScreenTheme">@style/Theme.SplashScreenAndroid12</item>
+        <item name="windowSplashScreenAnimationDuration">1000</item>
     </style>
 </resources>
