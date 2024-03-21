@@ -1,1 +1,1 @@
-i love myself
+https://sonarcloud.io/api/project_badges/quality_gate?project=mohsiniqbalcui_SplashScreenAndroid12
